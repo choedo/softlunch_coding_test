@@ -229,7 +229,6 @@ const filteredDataURL = data.filter((item) => {
 
   ```javascript
   return '최소 ${rule.minLength}자 이상 입력하세요.';
-
   return '최대 ${rule.maxLength}자까지 입력 가능합니다.';
   ```
 
@@ -241,7 +240,6 @@ const filteredDataURL = data.filter((item) => {
 
   ```javascript
   return `최소 ${rule.minLength}자 이상 입력하세요.`;
-
   return `최소 ${rule.maxLength}자 이상 입력하세요.`;
   ```
 
