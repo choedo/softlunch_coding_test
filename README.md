@@ -11,6 +11,7 @@
 ---
 
 <div id="mission1"></div>
+
 ## MISSION 1 — 레거시 코드 진단 및 리팩토링
 
 ### [원인 1]
@@ -111,6 +112,7 @@ const handleCategoryChange = useCallback((id) => {
 ---
 
 <div id="mission2"></div>
+
 ## MISSION 2 — 트레이드오프 분석과 선택
 
 ### [채택한 방식]
@@ -215,6 +217,7 @@ const filteredDataURL = data.filter((item) => {
 ---
 
 <div id="mission3"></div>
+
 ## MISSION 3 - 커스텀 제약 하의 Validation 엔진
 
 ### [버그 1]
