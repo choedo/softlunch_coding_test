@@ -1,12 +1,12 @@
-# 🚀 Softlunch Frontend/Flutter Assignment: DevFeed
+# 🚀 Softlunch Frontend/Flutter
 
-본 레포지토리는 소프트런치 웹 프론트엔드 & Flutter 앱 개발자 포지션 2차 과제 수행 결과물입니다.
+본 레포지토리는 소프트런치 웹 프론트엔드 & Flutter 앱 개발자 포지션 과제 수행 결과물입니다.
 
 ## 📌 목차
 
-1. [MISSION 1 — 레거시 코드 진단 및 리팩토링] (#MISSION 1 — 레거시 코드 진단 및 리팩토링)
-2. [MISSION 2 - 트레이드오프 분석과 선택] (#MISSION 2 - 트레이드오프 분석과 선택)
-3. [MISSION 3 - 커스텀 제약 하의 Validation 엔진] (#MISSION 3 - 커스텀 제약 하의 Validation 엔진)
+1. [MISSION 1 — 레거시 코드 진단 및 리팩토링] (#1-mission-1—레거시-코드-진단-및-리팩토링)
+2. [MISSION 2 - 트레이드오프 분석과 선택] (#2-mission-2-트레이드오프-분석과-선택)
+3. [MISSION 3 - 커스텀 제약 하의 Validation 엔진] (#3-mission-3-커스텀-제약-하의-validation-엔진)
 
 ---
 
