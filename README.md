@@ -4,12 +4,13 @@
 
 ## 📌 목차
 
-1. [MISSION 1 — 레거시 코드 진단 및 리팩토링] (#1-mission-1—레거시-코드-진단-및-리팩토링)
-2. [MISSION 2 - 트레이드오프 분석과 선택] (#2-mission-2-트레이드오프-분석과-선택)
-3. [MISSION 3 - 커스텀 제약 하의 Validation 엔진] (#3-mission-3-커스텀-제약-하의-validation-엔진)
+1. [MISSION 1 — 레거시 코드 진단 및 리팩토링](#mission1)
+2. [MISSION 2 - 트레이드오프 분석과 선택](#mission2)
+3. [MISSION 3 - 커스텀 제약 하의 Validation 엔진](#mission3)
 
 ---
 
+<div id="mission1"></div>
 ## MISSION 1 — 레거시 코드 진단 및 리팩토링
 
 ### [원인 1]
@@ -109,6 +110,7 @@ const handleCategoryChange = useCallback((id) => {
 
 ---
 
+<div id="mission2"></div>
 ## MISSION 2 — 트레이드오프 분석과 선택
 
 ### [채택한 방식]
@@ -212,6 +214,7 @@ const filteredDataURL = data.filter((item) => {
 
 ---
 
+<div id="mission3"></div>
 ## MISSION 3 - 커스텀 제약 하의 Validation 엔진
 
 ### [버그 1]
